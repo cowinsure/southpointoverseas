@@ -1,0 +1,10 @@
+
+RewriteOptions inherit
+DirectoryIndex index.php
+
+RewriteEngine On 
+RewriteRule ^$ public/index.php [L]
+RewriteRule ^((?!public/).*)$ public/$1 [L,NC]
+RewriteCond %{HTTP_HOST} ^southpointbd\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.southpointbd\.com$
+RewriteRule ^/?$ "http\:\/\/65\.2\.140\.255\/" [R=301,L]

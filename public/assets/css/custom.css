@@ -1,0 +1,86 @@
+/* 4.3. MidnightHeader */
+
+.midnightHeader.default .menu-open:before,
+.midnightHeader.default .hamburger:before, 
+.midnightHeader.default .hamburger:after {
+	background: black;
+}
+
+/* 6.1. Bg colors */
+
+/* ---------- red-bg-background-color-change-------------------*/
+.red-bg {
+	background: #fff;
+}
+/* ---------------------------end-red-bg-background-color-change*/
+
+/*------------------addClass-custom-overlay-btn-------------------------*/
+.custom-overlay-btn {
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: 1px;
+	font-family: 'Oswald', sans-serif;
+	line-height: 1;
+	font-size: 30px;
+	color: #262626;
+	position: relative;
+	white-space: nowrap;
+}
+/* ---------------------end-addClass-custom-overlay-btn-----------------------*/ 
+
+/* --------------------media-query for custom-overlay-btn(custom.css)*/
+
+
+@media only screen and (max-width: 767px) {
+	
+	.custom-overlay-btn{
+		font-size: 28px;
+	}
+	
+}
+
+@media only screen and (max-width: 549px) {
+		
+	.custom-overlay-btn{
+		font-size: 25px;
+	}
+		
+}
+@media only screen and (max-width: 399px) {
+	
+	.custom-overlay-btn {
+		font-size: 18px;
+	}
+	
+}
+
+/* ----------------------end-media-query for custom-overlay-btn*/ 
+
+/* ----------------dark-bg-2 .title-fill:after(custom.css)---------- */
+.dark-bg-2 .title-fill:after {
+	background: #fff;
+}
+/* ----------------------------end-dark-bg-2 .title-fill:after(custom.css) */
+
+/* -----------padding-for-training-activities(custom.css)------------------- */
+.padding-for-training-activities{
+	padding:50px 20px;
+}
+/* -------------------------end-padding-for-training-activities(custom.css) */
+
+/* -------------------------train(custom.css)---------------------------- */
+.train{
+	line-height: 26px;
+}
+/* -------------------------------------------------end-train(custom.css)*/
+
+/* 27.2. Isotope item */
+
+/* -------------custom-work-item(custom.css)------------ */
+.custom-work-item{
+    margin: 20px 10px 0 10px;
+	position: relative;
+	background: #111517;
+    height:200px;
+}
+/* ---------------------end-custom-work-item(custom.css) */
