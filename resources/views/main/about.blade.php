@@ -237,23 +237,41 @@
                             <td>621</td>
                             <td>618</td>
                         </tr>
+                          <tr>
+                            <td>16.</td>
+                            <td>2022</td>
+                            <td>2,465</td>
+                            <td>2,370</td>
+                        </tr>
+                         <tr>
+                            <td>17.</td>
+                            <td>2023</td>
+                            <td>825</td>
+                            <td>806</td>
+                        </tr>
+                         <tr>
+                            <td>18.</td>
+                            <td>2024</td>
+                            <td>750</td>
+                            <td>685</td>
+                        </tr>
+                         <tr>
+                            <td>19.</td>
+                            <td>2025</td>
+                            <td>300</td>
+                            <td>270</td>
+                        </tr>
                         <tr>
                             <td colspan="2">Total</td>
-                            <td>28,298</td>
-                            <td>20,379</td>
+                            <td>32,638</td>
+                            <td>24,511</td>
                         </tr>
                         </tbody>
                     </table>
                 </div><!-- flex-container end -->
 
                 <div class="top-margin-30">
-                    <p style="font-weight: 600; font-size: 14px; text-align: justify">South Point Overseas Ltd. has its
-                        footprint in UAE with so many reputed companies, specially ‘Belhasa Projects LLC’, ‘JAMS HR
-                        Solutions’ (One of the leading HR outsourcing company in Dubai) and ‘Iltesalat’ –The Giant
-                        Telecom Industry of UAE. Besides, South Point Overseas Ltd. also despatched many workers to
-                        other countries like Saudi Arabia, Malaysia, Kuwait and Libya. Currently we are having sizeable
-                        inquiries & request from Korea, Serbia and Romania. We do look forward to have an account with
-                        your highly esteemed organization.
+                    <p style="font-weight: 600; font-size: 14px; text-align: justify">South Point Overseas Ltd. has its footprint in UAE with so many reputed companies, specially ‘Belhasa Projects LLC’, ‘JAMS HR Solutions’ (One of the leading HR outsourcing company in Dubai) and ‘Iltesalat’ –The Giant Telecom Industry of UAE. Besides, South Point Overseas Ltd. also dispatched many workers to other countries like Saudi Arabia, Malaysia, Japan and Kuwait. Currently we are having sizeable inquiries & request from Italy, Korea, Serbia and Romania. We do look forward to have an account with your highly esteemed organization.
                     </p>
                 </div>
             </div><!-- container end -->

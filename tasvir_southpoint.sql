@@ -408,13 +408,8 @@ INSERT INTO `papers` (`id`, `image`, `content`, `document_id`, `created_at`, `up
 -- Table structure for table `profiles`
 --
 
--- CREATE TABLE `profiles` (
---   `id` bigint(20) UNSIGNED NOT NULL,
---   `title` varchar(255) NOT NULL,
---   `content` text NOT NULL,
---   `created_at` timestamp NULL DEFAULT NULL,
---   `updated_at` timestamp NULL DEFAULT NULL
--- ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+
 
 --
 -- Dumping data for table `profiles`
@@ -423,16 +418,16 @@ INSERT INTO `papers` (`id`, `image`, `content`, `document_id`, `created_at`, `up
 INSERT INTO `profiles` (`id`, `title`, `content`, `created_at`, `updated_at`) VALUES
 (3, 'Name of the Company', 'South Point Overseas Limited.', '2021-08-04 00:21:45', '2021-08-04 00:21:45'),
 (4, 'Date of Registration', '20th December, 1998.', '2021-08-04 00:22:04', '2021-08-04 00:22:04'),
-(5, 'License Number', 'RL-622', '2021-08-04 00:24:31', '2021-09-16 14:32:31'),
-(6, 'Address & contacts of Corporate Office', 'House # 6-A, Road # 2, Gulshan-1, Dhaka-1212, Bangladesh.Tel. # +880-2-222261057-8, E-mail: corpoff@southpointbd.com, Website: southpointbd.com', '2021-08-04 00:24:47', '2021-09-16 09:31:58'),
+(5, 'License Number', 'RL-622 Issued by the Government of Bangladesh', '2021-08-04 00:24:31', '2021-09-16 14:32:31'),
+(6, 'Address & contacts of Corporate Office', 'Star Center (Level 3), House # 2, Road # 138, Gulshan-1 Dhaka-1212, Bangladesh\nHotline: +8801903999666,\nEmail: corpoff@southpointbd.com\nWebsite: www.southpointbd.com', '2021-08-04 00:24:47', '2021-09-16 09:31:58'),
 (7, 'Training & Testing Centre', 'Singapore Engineering & Construction - South Point Skills Centre', '2021-08-04 00:25:01', '2021-09-11 09:39:27'),
 (8, 'Address of Training & Test Centre', 'Goshbag, Zirabo, Ashulia, Savar, Dhaka, Bangladesh.', '2021-08-04 00:25:17', '2021-09-16 09:32:39'),
-(9, 'Ticketing & Travelling Agency', 'Victory Travels Ltd. and Anowar Tours & Travels Ltd. Dhaka, Bangladesh.', '2021-08-04 00:25:44', '2021-09-11 09:51:03'),
-(10, 'Medical Centre', 'Gulshan Clinic Limited. Dhaka, Bangladesh.', '2021-08-04 00:25:59', '2021-09-11 09:44:56'),
-(11, 'Sister Concerns', 'South Point Traders Ltd. & South Point Holdings (Pte.) Ltd.', '2021-08-04 00:26:13', '2021-08-04 00:26:13'),
-(12, 'Bankers', 'Standard Chartered Bank, United Commercial Bank Ltd, Mutual Trust Bank Ltd, Eastern Bank Ltd.', '2021-08-04 00:26:33', '2021-09-16 14:30:14'),
-(13, 'Number of employees', 'Corporate Office- 35 & Training Centre- 75', '2021-08-04 00:26:48', '2021-09-16 14:31:44'),
-(14, 'Membership', 'Bangladesh Association of International Recruiting Agents (BAlRA).\r\nDhaka Chamber of Commerce and Industries (DCCI).', '2021-08-04 00:27:04', '2021-08-04 00:27:04');
+(9, 'Ticketing & Travelling Agency', 'Victory Travels Ltd. Dhaka, Bangladesh Anowar Tours & Travels Limited, Dhaka, Bangladesh', '2021-08-04 00:25:44', '2021-09-11 09:51:03'),
+(10, 'Medical Centre', 'Gulshan Clinic Ltd, Shahjadpur, Gulshan, Dhaka-1212, Bangladesh\nLabaid Medical Centre Gulshan, Gulshan-2, Dhaka-1212, Bangladesh', '2021-08-04 00:25:59', '2021-09-11 09:44:56'),
+
+(11, 'Bankers', 'The City Bank PLC\nUnited Commercial Bank PLC\nBRAC Bank PLC', '2021-08-04 00:26:33', '2021-09-16 14:30:14'),
+(12, 'Number of employees', 'Corporate Office- 47 & Training Centre- 54', '2021-08-04 00:26:48', '2021-09-16 14:31:44'),
+(13, 'Membership', 'Bangladesh Association of International Recruiting Agents (BAIRA). Dhaka\nChamber of Commerce and Industries (DCCI)', '2021-08-04 00:27:04', '2021-08-04 00:27:04');
 
 -- --------------------------------------------------------
 
