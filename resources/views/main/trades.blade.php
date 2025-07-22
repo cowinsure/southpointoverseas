@@ -194,11 +194,18 @@
                 <div class="content-left-right-margin-10 footer-left-mobile">
                     <h4>{{ $footer->title }}</h4> <br>
                     <ul class="footer-information text-color-4">
-                        <li><i class="far fa-envelope"></i><a href="{{ $footer->email }}" class="xsmall-title-oswald">
-                                {{ $footer->email }}</a></li>
-                        <li><i class="fas fa-mobile-alt"></i><a href="#"
-                                                                class="xsmall-title-oswald">{{ $footer->tel }}</a>
+                        @if(!empty($footer->email))
+                        <li style="display: flex; align-items: center;  margin-bottom: 6px; justify-content: flex-start;">
+                            <i class="far fa-envelope"></i>
+                            <a href="mailto:{{ $footer->email }}" class="xsmall-title-oswald" style="color: #0b0b0b">{{ $footer->email }}</a>
                         </li>
+                        @endif
+                        @if(!empty($footer->tel))
+                        <li style="display: flex; align-items: center;  margin-bottom: 6px; justify-content: flex-start;">
+                            <i class="fas fa-mobile-alt"></i>
+                            <a href="tel:{{ $footer->tel }}" class="xsmall-title-oswald" style="color: black">{{ $footer->tel }}</a>
+                        </li>
+                        @endif
                         <li><i class="fas fa-map-marker-alt"></i><a href="#"
                                                                     class="xsmall-title-oswald text-height-17">{{ $footer->address }}</a>
                         </li>

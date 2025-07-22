@@ -228,15 +228,15 @@
                 <div class="content-left-right-margin-10 footer-left-mobile">
                     <h4>{{ $footer->title }}</h4> <br>
                     <ul class="footer-information">
+                        @if(!empty($footer->email))
                         <li><i class="far fa-envelope"></i><a href="{{ $footer->email }}" class="xsmall-title-oswald"
-                                                              style="color: #0b0b0b">
-                                {{ $footer->email }}</a></li>
-                        <li><i class="fas fa-mobile-alt"></i><a href="#"
-                                                                class="xsmall-title-oswald"
-                                                                style="color: black">{{ $footer->tel }}</a>
+                                                              style="color: #0b0b0b">{{$footer->email }}</a></li>
+                        @endif
+                        @if(!empty($footer->tel))
+                        <li><i class="fas fa-mobile-alt"></i><a href="#"class="xsmall-title-oswald"style="color: black">{{$footer->tel}}</a>
                         </li>
-                        <li><i class="fas fa-map-marker-alt"></i><a href="#" class="xsmall-title-oswald text-height-17"
-                                                                    style="color: black">{{ $footer->address }}</a>
+                        @endif
+                        <li><i class="fas fa-map-marker-alt"></i><a href="#" class="xsmall-title-oswald text-height-17"style="color: black">{{$footer->address }}</a>
                         </li>
                     </ul>
                 </div>
