@@ -222,8 +222,8 @@ INSERT INTO `documents` (`id`, `title`, `created_at`, `updated_at`) VALUES
 --
 
 INSERT INTO `footers` (`id`, `title`, `address`, `tel`, `email`, `created_at`, `updated_at`) VALUES
-(1, 'SOUTH POINT OVERSEAS LIMITED', 'House # 6-A, Road # 2, Gulshan-1, Dhaka-1212,        Bangladesh', '+880-2-222261057-8', 'corpoff@southpointbd.com', '2021-08-02 05:14:31', '2021-09-16 14:41:05'),
-(2, 'TRAINING CENTRE', 'Ghoshbag, Zirabo, Ashulia, Savar, Dhaka, Bangladesh', '+880-2-44071011', 'training@southpointbd.com', '2021-08-03 04:10:25', '2021-09-11 12:18:10');
+(1, 'SOUTH POINT OVERSEAS LIMITED', 'House # 6-A, Road # 2, Gulshan-1, Dhaka-1212,        Bangladesh', '+880-2-222261057-8','corpoff@southpointbd.com', '2021-08-02 05:14:31', '2021-09-16 14:41:05'),
+(2, 'TRAINING CENTRE', 'Ghoshbag, Zirabo, Ashulia, Savar, Dhaka, Bangladesh', '+880-2-44071011','training@southpointbd.com', '2021-08-03 04:10:25', '2021-09-11 12:18:10');
 
 -- --------------------------------------------------------
 
@@ -422,10 +422,10 @@ INSERT INTO `profiles` (`id`, `title`, `content`, `created_at`, `updated_at`) VA
 (6, 'Address & contacts of Corporate Office', 'Star Center (Level 3), House # 2, Road # 138, Gulshan-1 Dhaka-1212, Bangladesh\nHotline: +8801903999666,\nEmail: corpoff@southpointbd.com\nWebsite: www.southpointbd.com', '2021-08-04 00:24:47', '2021-09-16 09:31:58'),
 (7, 'Training & Testing Centre', 'Singapore Engineering & Construction - South Point Skills Centre', '2021-08-04 00:25:01', '2021-09-11 09:39:27'),
 (8, 'Address of Training & Test Centre', 'Goshbag, Zirabo, Ashulia, Savar, Dhaka, Bangladesh.', '2021-08-04 00:25:17', '2021-09-16 09:32:39'),
-(9, 'Ticketing & Travelling Agency', 'Victory Travels Ltd. Dhaka, Bangladesh Anowar Tours & Travels Limited, Dhaka, Bangladesh', '2021-08-04 00:25:44', '2021-09-11 09:51:03'),
-(10, 'Medical Centre', 'Gulshan Clinic Ltd, Shahjadpur, Gulshan, Dhaka-1212, Bangladesh\nLabaid Medical Centre Gulshan, Gulshan-2, Dhaka-1212, Bangladesh', '2021-08-04 00:25:59', '2021-09-11 09:44:56'),
+(9, 'Ticketing & Travelling Agency', 'Victory Travels Ltd. Dhaka, /n Bangladesh Anowar Tours & Travels Limited, Dhaka, Bangladesh', '2021-08-04 00:25:44', '2021-09-11 09:51:03'),
+(10, 'Medical Centre', 'Gulshan Clinic Ltd, Shahjadpur, Gulshan, Dhaka-1212, /n Bangladesh Labaid Medical Centre Gulshan, Gulshan-2, Dhaka-1212, Bangladesh', '2021-08-04 00:25:59', '2021-09-11 09:44:56'),
 
-(11, 'Bankers', 'The City Bank PLC\nUnited Commercial Bank PLC\nBRAC Bank PLC', '2021-08-04 00:26:33', '2021-09-16 14:30:14'),
+(11, 'Bankers', 'The City Bank PLC, /n United Commercial Bank PLC, /n BRAC Bank PLC', '2021-08-04 00:26:33', '2021-09-16 14:30:14'),
 (12, 'Number of employees', 'Corporate Office- 47 & Training Centre- 54', '2021-08-04 00:26:48', '2021-09-16 14:31:44'),
 (13, 'Membership', 'Bangladesh Association of International Recruiting Agents (BAIRA). Dhaka\nChamber of Commerce and Industries (DCCI)', '2021-08-04 00:27:04', '2021-08-04 00:27:04');
 

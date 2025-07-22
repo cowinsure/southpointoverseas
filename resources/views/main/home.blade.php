@@ -523,7 +523,7 @@
                     <h4>{{ $footer->title }}</h4> <br>
                     <ul class="footer-information text-color-4">
                         <li><i class="far fa-envelope"></i><a href="" class="xsmall-title-oswald">
-                                {{ $footer->email }}</a></li>
+                                {{ trim($footer->email) }}</a></li>
                         <li><i class="fas fa-mobile-alt"></i><a href="#"
                                                                 class="xsmall-title-oswald">{{ $footer->tel }}</a>
                         </li>
