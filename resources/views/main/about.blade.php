@@ -127,7 +127,7 @@
 
                 <style>
                     tr td {
-                        text-align : center;
+                        text-align : start;
                     }
                 </style>
 
