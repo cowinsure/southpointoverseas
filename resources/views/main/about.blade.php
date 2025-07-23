@@ -127,7 +127,7 @@
 
                 <style>
                     tr td {
-                        text-align : start;
+                        /* default, will override per cell */
                     }
                 </style>
 
@@ -138,133 +138,130 @@
                         <tbody style=" box-shadow: 0 15px 20px rgba(0,0,0,0.30); text-align: center">
 
                         <tr style="font-size: 12px; font-weight: 600">
-                            <th style="padding: 20px">Sl . #</th>
-                            <th style="padding: 10px">Year</th>
-                            <th style="padding: 10px">No. of Workers Tested</th>
-                            <th>No of Workers Passed</th>
+                            <th style="padding: 20px; text-align: center;">Sl . #</th>
+                            <th style="padding: 10px; text-align: center;">Year</th>
+                            <th style="padding: 10px; ">No. of Workers Tested</th>
+                            <th style="">No of Workers Passed</th>
                         </tr>
                         <tr>
-                            <td>01 .</td>
-                            <td>2007</td>
-                            <td>3,584</td>
-                            <td>1,929</td>
+                            <td style="text-align: center;">01 .</td>
+                            <td style="text-align: center;">2007</td>
+                            <td style="text-align: right;">3,584</td>
+                            <td style="text-align: right;">1,929</td>
+                           
                         </tr>
                         <tr>
-                            <td>02.</td>
-                            <td>2008</td>
-                            <td>6,078</td>
-                            <td>4,239</td>
+                            <td style="text-align: center;">02.</td>
+                            <td style="text-align: center;">2008</td>
+                            <td style="text-align: right;">6,078</td>
+                            <td style="text-align: right;">4,239</td>
                         </tr>
                         <tr>
-                            <td>03.</td>
-                            <td>2009</td>
-                            <td>723</td>
-                            <td>518</td>
+                            <td style="text-align: center;">03.</td>
+                            <td style="text-align: center;">2009</td>
+                            <td style="text-align: right;">723</td>
+                            <td style="text-align: right;">518</td>
                         </tr>
                         <tr>
-                            <td>04.</td>
-                            <td>2010</td>
-                            <td>1,175</td>
-                            <td>831</td>
+                            <td style="text-align: center;">04.</td>
+                            <td style="text-align: center;">2010</td>
+                            <td style="text-align: right;">1,175</td>
+                            <td style="text-align: right;">831</td>
                         </tr>
                         <tr>
-                            <td>05.</td>
-                            <td>2011</td>
-                            <td>2,521</td>
-                            <td>1,786</td>
+                            <td style="text-align: center;">05.</td>
+                            <td style="text-align: center;">2011</td>
+                            <td style="text-align: right;">2,521</td>
+                            <td style="text-align: right;">1,786</td>
                         </tr>
                         <tr>
-                            <td>06.</td>
-                            <td>2012</td>
-                            <td>4,282</td>
-                            <td>3,081</td>
-                        </tr>
-
-                        <tr>
-                            <td>07.</td>
-                            <td>2013</td>
-                            <td>2,628</td>
-                            <td>1,953</td>
-                        </tr>
-
-                        <tr>
-                            <td>08.</td>
-                            <td>2014</td>
-                            <td>3,257</td>
-                            <td>2,586</td>
+                            <td style="text-align: center;">06.</td>
+                            <td style="text-align: center;">2012</td>
+                            <td style="text-align: right;">4,282</td>
+                            <td style="text-align: right;">3,081</td>
                         </tr>
                         <tr>
-                            <td>09.</td>
-                            <td>2015</td>
-                            <td>1,526</td>
-                            <td>1,270</td>
-                        </tr>
-
-                        <tr>
-                            <td>10.</td>
-                            <td>2016</td>
-                            <td>362</td>
-                            <td>294</td>
-                        </tr>
-
-                        <tr>
-                            <td>11.</td>
-                            <td>2017</td>
-                            <td>540</td>
-                            <td>427</td>
+                            <td style="text-align: center;">07.</td>
+                            <td style="text-align: center;">2013</td>
+                            <td style="text-align: right;">2,628</td>
+                            <td style="text-align: right;">1,953</td>
                         </tr>
                         <tr>
-                            <td>12.</td>
-                            <td>2018</td>
-                            <td>218</td>
-                            <td>172</td>
+                            <td style="text-align: center;">08.</td>
+                            <td style="text-align: center;">2014</td>
+                            <td style="text-align: right;">3,257</td>
+                            <td style="text-align: right;">2,586</td>
                         </tr>
                         <tr>
-                            <td>13.</td>
-                            <td>2019</td>
-                            <td>613</td>
-                            <td>534</td>
+                            <td style="text-align: center;">09.</td>
+                            <td style="text-align: center;">2015</td>
+                            <td style="text-align: right;">1,526</td>
+                            <td style="text-align: right;">1,270</td>
                         </tr>
                         <tr>
-                            <td>14.</td>
-                            <td>2020</td>
-                            <td>170</td>
-                            <td>142</td>
+                            <td style="text-align: center;">10.</td>
+                            <td style="text-align: center;">2016</td>
+                            <td style="text-align: right;">362</td>
+                            <td style="text-align: right;">294</td>
                         </tr>
                         <tr>
-                            <td>15.</td>
-                            <td>2021</td>
-                            <td>621</td>
-                            <td>618</td>
-                        </tr>
-                          <tr>
-                            <td>16.</td>
-                            <td>2022</td>
-                            <td>2,465</td>
-                            <td>2,370</td>
-                        </tr>
-                         <tr>
-                            <td>17.</td>
-                            <td>2023</td>
-                            <td>825</td>
-                            <td>806</td>
-                        </tr>
-                         <tr>
-                            <td>18.</td>
-                            <td>2024</td>
-                            <td>750</td>
-                            <td>685</td>
-                        </tr>
-                         <tr>
-                            <td>19.</td>
-                            <td>2025</td>
-                            <td>300</td>
-                            <td>270</td>
+                            <td style="text-align: center;">11.</td>
+                            <td style="text-align: center;">2017</td>
+                            <td style="text-align: right;">540</td>
+                            <td style="text-align: right;">427</td>
                         </tr>
                         <tr>
-                            <td colspan="2">Total</td>
-                            <td>32,638</td>
-                            <td>24,511</td>
+                            <td style="text-align: center;">12.</td>
+                            <td style="text-align: center;">2018</td>
+                            <td style="text-align: right;">218</td>
+                            <td style="text-align: right;">172</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">13.</td>
+                            <td style="text-align: center;">2019</td>
+                            <td style="text-align: right;">613</td>
+                            <td style="text-align: right;">534</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">14.</td>
+                            <td style="text-align: center;">2020</td>
+                            <td style="text-align: right;">170</td>
+                            <td style="text-align: right;">142</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">15.</td>
+                            <td style="text-align: center;">2021</td>
+                            <td style="text-align: right;">621</td>
+                            <td style="text-align: right;">618</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">16.</td>
+                            <td style="text-align: center;">2022</td>
+                            <td style="text-align: right;">2,465</td>
+                            <td style="text-align: right;">2,370</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">17.</td>
+                            <td style="text-align: center;">2023</td>
+                            <td style="text-align: right;">825</td>
+                            <td style="text-align: right;">806</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">18.</td>
+                            <td style="text-align: center;">2024</td>
+                            <td style="text-align: right;">750</td>
+                            <td style="text-align: right;">685</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">19.</td>
+                            <td style="text-align: center;">2025</td>
+                            <td style="text-align: right;">300</td>
+                            <td style="text-align: right;">270</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="text-align: center;">Total</td>
+                            <td style="text-align: right;">32,638</td>
+                            <td style="text-align: right;">24,511</td>
                         </tr>
                         </tbody>
                     </table>
@@ -339,13 +336,59 @@
                         style="border-collapse: collapse; border: 0px solid #FFCC00; color: #000000; width: 100%; background-color: #E8E8E8"
                         border="0" cellspacing="2" cellpadding="3">
                         <tbody style=" box-shadow: 0 15px 20px rgba(0,0,0,0.30);">
-                        @foreach($profiles as $profile)
-                            <tr style="font-size: 12px; font-weight: 600">
-                                <td style="padding: 20px">{{ $profile->title }}</td>
-                                <td style="padding: 10px">{{ $profile->content }}</td>
+                                                    <tr style="font-size: 12px; font-weight: 600">
+                                <td style="padding: 20px">Name of the Company</td>
+                                <td style="padding: 10px">South Point Overseas Limited.</td>
                             </tr>
-                        @endforeach
-                        </tbody>
+                                                    <tr style="font-size: 12px; font-weight: 600">
+                                <td style="padding: 20px">Date of Registration</td>
+                                <td style="padding: 10px">20th December, 1998.</td>
+                            </tr>
+                                                    <tr style="font-size: 12px; font-weight: 600">
+                                <td style="padding: 20px">License Number</td>
+                                <td style="padding: 10px">RL-622 Issued by the Government of Bangladesh</td>
+                            </tr>
+                                                    <tr style="font-size: 12px; font-weight: 600">
+                                <td style="padding: 20px">Address &amp; contacts of Corporate Office</td>
+                                <td style="padding: 10px">Star Center (Level 3), House # 2, Road # 138, Gulshan-1 Dhaka-1212, Bangladesh</br>
+Hotline: +8801903999666,
+</br>Email: corpoff@southpointbd.com
+</br>Website: www.southpointbd.com</td>
+                            </tr>
+                                                    <tr style="font-size: 12px; font-weight: 600">
+                                <td style="padding: 20px">Training &amp; Testing Centre</td>
+                                <td style="padding: 10px">Singapore Engineering &amp; Construction - South Point Skills Centre</td>
+                            </tr>
+                                                    <tr style="font-size: 12px; font-weight: 600">
+                                <td style="padding: 20px">Address of Training &amp; Test Centre</td>
+                                <td style="padding: 10px">Ghoshbag, Zirabo, Ashulia, Savar, Dhaka, Bangladesh.</td>
+                            </tr>
+                                                    <tr style="font-size: 12px; font-weight: 600">
+                                <td style="padding: 20px">Ticketing &amp; Travelling Agency</td>
+                                <td style="padding: 10px">Victory Travels Ltd. Dhaka,
+Bangladesh </br> Anowar Tours &amp; Travels Limited, Dhaka, Bangladesh</td>
+                            </tr>
+                                                    <tr style="font-size: 12px; font-weight: 600">
+                                <td style="padding: 20px">Medical Centre</td>
+                                <td style="padding: 10px">Gulshan Clinic Ltd, Shahjadpur, Gulshan, Dhaka-1212,</br>
+Bangladesh Labaid Medical Centre Gulshan, Gulshan-2, Dhaka-1212, Bangladesh</td>
+                            </tr>
+                                                    <tr style="font-size: 12px; font-weight: 600">
+                                <td style="padding: 20px">Bankers</td>
+                                <td style="padding: 10px">The City Bank PLC,</br>
+United Commercial Bank PLC,
+</br>BRAC Bank PLC</td>
+                            </tr>
+                                                    <tr style="font-size: 12px; font-weight: 600">
+                                <td style="padding: 20px">Number of employees</td>
+                                <td style="padding: 10px">Corporate Office- 47 &amp; Training Centre- 54</td>
+                            </tr>
+                                                    <tr style="font-size: 12px; font-weight: 600">
+                                <td style="padding: 20px">Membership</td>
+                                <td style="padding: 10px">Bangladesh Association of International Recruiting Agents (BAIRA),</br> Dhaka
+Chamber of Commerce and Industries (DCCI)</td>
+                            </tr>
+                                                </tbody>
                     </table>
                 </div><!-- flex-container end -->
             </div><!-- container end -->

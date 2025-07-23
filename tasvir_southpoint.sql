@@ -161,8 +161,17 @@ INSERT INTO `clients` (`id`, `title`, `status`, `top`, `left`, `created_at`, `up
 --
 
 INSERT INTO `contacts` (`id`, `title`, `map`, `place`, `address`, `tel`, `email`, `created_at`, `updated_at`) VALUES
-(2, 'Head Office', 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d29209.13785097664!2d90.415244!3d23.777949!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1b87fe1c61dae7f4!2sSouth%20Point!5e0!3m2!1sen!2sbd!4v1628406672340!5m2!1sen!2sbd', 'South Point Head Office', 'House# 6-A, Road# 2, Gulshan-1, Dhaka-1212, Bangladesh', 'Tel: +880-2-222261057-9', 'corpoff@southpointbd.com', '2021-08-08 00:54:36', '2021-09-16 10:21:08'),
-(3, 'Training Center', 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d466843.6740928163!2d90.312933!3d23.917397!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xed97ee300b4dd6b3!2sSingapore%20Piling%20South%20Point%20Test%20Centre!5e0!3m2!1sen!2sbd!4v1628408048976!5m2!1sen!2sbd', 'South Point Training Center', 'Goshbag, Zirabo, Ashulia, Savar, Dhaka, Bangladesh', 'Tel: +88-02-7791375, Fax: 02-7791376', 'training@southpointbd.com', '2021-08-08 01:38:17', '2021-09-16 10:20:08');
+(2, 'Head Office', 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d29209.13785097664!2d90.415244!3d23.777949!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1b87fe1c61dae7f4!2sSouth%20Point!5e0!3m2!1sen!2sbd!4v1628406672340!5m2!1sen!2sbd', 'South Point Head Office', 'Star Center (Level 3), House # 2, Road # 138, Gulshan-1, Dhaka-1212, Bangladesh
+', 'Hotline: +880 1903 999 666,
+', 'corpoff@southpointbd.com', '2021-08-08 00:54:36', '2021-09-16 10:21:08'),
+(3, 'Training Center',
+ 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d466843.6740928163!2d90.312933!3d23.917397!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xed97ee300b4dd6b3!2sSingapore%20Piling%20South%20Point%20Test%20Centre!5e0!3m2!1sen!2sbd!4v1628408048976!5m2!1sen!2sbd',
+  'Singapore Engineering and Construction-South Point Skills Centre',
+   'Ghoshbag, Zirabo, Ashulia, Savar, Dhaka, Bangladesh', 
+   null, 
+   null, 
+   '2021-08-08 01:38:17',
+    '2021-09-16 10:20:08');
 
 -- --------------------------------------------------------
 
@@ -222,8 +231,9 @@ INSERT INTO `documents` (`id`, `title`, `created_at`, `updated_at`) VALUES
 --
 
 INSERT INTO `footers` (`id`, `title`, `address`, `tel`, `email`, `created_at`, `updated_at`) VALUES
-(1, 'SOUTH POINT OVERSEAS LIMITED', 'House # 6-A, Road # 2, Gulshan-1, Dhaka-1212,        Bangladesh', '+880-2-222261057-8','corpoff@southpointbd.com', '2021-08-02 05:14:31', '2021-09-16 14:41:05'),
-(2, 'TRAINING CENTRE', 'Ghoshbag, Zirabo, Ashulia, Savar, Dhaka, Bangladesh', '+880-2-44071011','training@southpointbd.com', '2021-08-03 04:10:25', '2021-09-11 12:18:10');
+(1, 'SOUTH POINT OVERSEAS LIMITED', 'Star Center (Level 3), House # 2, Road # 138, Gutshan-1, Dkaka-1212,
+       Bangladesh', '+880 1903 999 666','corpoff@southpointbd.com', '2021-08-02 05:14:31', '2021-09-16 14:41:05'),
+(2, 'TRAINING CENTRE', 'Ghoshbag, Zirabo, Ashulia, Savar, Dhaka, Bangladesh', null,null, '2021-08-03 04:10:25', '2021-09-11 12:18:10');
 
 -- --------------------------------------------------------
 
