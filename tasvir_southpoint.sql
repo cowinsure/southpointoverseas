@@ -231,7 +231,7 @@ INSERT INTO `documents` (`id`, `title`, `created_at`, `updated_at`) VALUES
 --
 
 INSERT INTO `footers` (`id`, `title`, `address`, `tel`, `email`, `created_at`, `updated_at`) VALUES
-(1, 'SOUTH POINT OVERSEAS LIMITED', 'Star Center (Level 3), House # 2, Road # 138, Gutshan-1, Dkaka-1212,
+(1, 'SOUTH POINT OVERSEAS LIMITED', 'Star Center (Level 3), House # 2, Road # 138, Gulshan-1, Dkaka-1212,
        Bangladesh', '+880 1903 999 666','corpoff@southpointbd.com', '2021-08-02 05:14:31', '2021-09-16 14:41:05'),
 (2, 'TRAINING CENTRE', 'Ghoshbag, Zirabo, Ashulia, Savar, Dhaka, Bangladesh', null,null, '2021-08-03 04:10:25', '2021-09-11 12:18:10');
 

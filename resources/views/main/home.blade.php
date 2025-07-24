@@ -536,8 +536,9 @@
                             <a href="tel:{{ $footer->tel }}" class="xsmall-title-oswald" style="color: black">{{ $footer->tel }}</a>
                         </li>
                         @endif
-                        <li><i class="fas fa-map-marker-alt"></i><a href="#"
-                                                                    class="xsmall-title-oswald text-height-17">{{ $footer->address }}</a>
+                        <li style="display: flex; align-items: center; gap: 8px; margin-bottom: 6px; justify-content: flex-start;">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <a href="#" class="xsmall-title-oswald text-height-17" style="white-space: normal; word-break: break-word; color: inherit;">{{ $footer->address }}</a>
                         </li>
                     </ul>
                 </div>

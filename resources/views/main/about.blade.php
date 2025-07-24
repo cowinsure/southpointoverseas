@@ -146,122 +146,122 @@
                         <tr>
                             <td style="text-align: center;">01 .</td>
                             <td style="text-align: center;">2007</td>
-                            <td style="text-align: right;">3,584</td>
-                            <td style="text-align: right;">1,929</td>
+                            <td style="text-align: right; padding-right: 40px;">3,584</td>
+                            <td style="text-align: right; padding-right: 40px;">1,929</td>
                            
                         </tr>
                         <tr>
                             <td style="text-align: center;">02.</td>
                             <td style="text-align: center;">2008</td>
-                            <td style="text-align: right;">6,078</td>
-                            <td style="text-align: right;">4,239</td>
+                            <td style="text-align: right; padding-right: 40px;">6,078</td>
+                            <td style="text-align: right; padding-right: 40px;">4,239</td>
                         </tr>
                         <tr>
                             <td style="text-align: center;">03.</td>
                             <td style="text-align: center;">2009</td>
-                            <td style="text-align: right;">723</td>
-                            <td style="text-align: right;">518</td>
+                            <td style="text-align: right;  padding-right: 40px;">723</td>
+                            <td style="text-align: right;  padding-right: 40px;">518</td>
                         </tr>
                         <tr>
                             <td style="text-align: center;">04.</td>
                             <td style="text-align: center;">2010</td>
-                            <td style="text-align: right;">1,175</td>
-                            <td style="text-align: right;">831</td>
+                            <td style="text-align: right;  padding-right: 40px;">1,175</td>
+                            <td style="text-align: right;  padding-right: 40px;">831</td>
                         </tr>
                         <tr>
                             <td style="text-align: center;">05.</td>
                             <td style="text-align: center;">2011</td>
-                            <td style="text-align: right;">2,521</td>
-                            <td style="text-align: right;">1,786</td>
+                            <td style="text-align: right;  padding-right: 40px;">2,521</td>
+                            <td style="text-align: right;  padding-right: 40px;">1,786</td>
                         </tr>
                         <tr>
                             <td style="text-align: center;">06.</td>
                             <td style="text-align: center;">2012</td>
-                            <td style="text-align: right;">4,282</td>
-                            <td style="text-align: right;">3,081</td>
+                            <td style="text-align: right;  padding-right: 40px;">4,282</td>
+                            <td style="text-align: right;  padding-right: 40px;">3,081</td>
                         </tr>
                         <tr>
                             <td style="text-align: center;">07.</td>
                             <td style="text-align: center;">2013</td>
-                            <td style="text-align: right;">2,628</td>
-                            <td style="text-align: right;">1,953</td>
+                            <td style="text-align: right;  padding-right: 40px;">2,628</td>
+                            <td style="text-align: right;  padding-right: 40px;">1,953</td>
                         </tr>
                         <tr>
                             <td style="text-align: center;">08.</td>
                             <td style="text-align: center;">2014</td>
-                            <td style="text-align: right;">3,257</td>
-                            <td style="text-align: right;">2,586</td>
+                            <td style="text-align: right;  padding-right: 40px;">3,257</td>
+                            <td style="text-align: right; padding-right: 40px;">2,586</td>
                         </tr>
                         <tr>
                             <td style="text-align: center;">09.</td>
                             <td style="text-align: center;">2015</td>
-                            <td style="text-align: right;">1,526</td>
-                            <td style="text-align: right;">1,270</td>
+                            <td style="text-align: right;  padding-right: 40px;">1,526</td>
+                            <td style="text-align: right;  padding-right: 40px;">1,270</td>
                         </tr>
                         <tr>
                             <td style="text-align: center;">10.</td>
                             <td style="text-align: center;">2016</td>
-                            <td style="text-align: right;">362</td>
-                            <td style="text-align: right;">294</td>
+                            <td style="text-align: right;  padding-right: 40px;">362</td>
+                            <td style="text-align: right;  padding-right: 40px;">294</td>
                         </tr>
                         <tr>
                             <td style="text-align: center;">11.</td>
                             <td style="text-align: center;">2017</td>
-                            <td style="text-align: right;">540</td>
-                            <td style="text-align: right;">427</td>
+                            <td style="text-align: right;  padding-right: 40px;">540</td>
+                            <td style="text-align: right;  padding-right: 40px;">427</td>
                         </tr>
                         <tr>
                             <td style="text-align: center;">12.</td>
                             <td style="text-align: center;">2018</td>
-                            <td style="text-align: right;">218</td>
-                            <td style="text-align: right;">172</td>
+                            <td style="text-align: right;  padding-right: 40px;">218</td>
+                            <td style="text-align: right;  padding-right: 40px;">172</td>
                         </tr>
                         <tr>
                             <td style="text-align: center;">13.</td>
                             <td style="text-align: center;">2019</td>
-                            <td style="text-align: right;">613</td>
-                            <td style="text-align: right;">534</td>
+                            <td style="text-align: right;  padding-right: 40px;">613</td>
+                            <td style="text-align: right;  padding-right: 40px;">534</td>
                         </tr>
                         <tr>
                             <td style="text-align: center;">14.</td>
                             <td style="text-align: center;">2020</td>
-                            <td style="text-align: right;">170</td>
-                            <td style="text-align: right;">142</td>
+                            <td style="text-align: right;  padding-right: 40px;">170</td>
+                            <td style="text-align: right;  padding-right: 40px;">142</td>
                         </tr>
                         <tr>
                             <td style="text-align: center;">15.</td>
                             <td style="text-align: center;">2021</td>
-                            <td style="text-align: right;">621</td>
-                            <td style="text-align: right;">618</td>
+                            <td style="text-align: right;  padding-right: 40px;">621</td>
+                            <td style="text-align: right;  padding-right: 40px;">618</td>
                         </tr>
                         <tr>
                             <td style="text-align: center;">16.</td>
                             <td style="text-align: center;">2022</td>
-                            <td style="text-align: right;">2,465</td>
-                            <td style="text-align: right;">2,370</td>
+                            <td style="text-align: right;  padding-right: 40px;">2,465</td>
+                            <td style="text-align: right;  padding-right: 40px;">2,370</td>
                         </tr>
                         <tr>
                             <td style="text-align: center;">17.</td>
                             <td style="text-align: center;">2023</td>
-                            <td style="text-align: right;">825</td>
-                            <td style="text-align: right;">806</td>
+                            <td style="text-align: right;  padding-right: 40px;">825</td>
+                            <td style="text-align: right;  padding-right: 40px;">806</td>
                         </tr>
                         <tr>
                             <td style="text-align: center;">18.</td>
                             <td style="text-align: center;">2024</td>
-                            <td style="text-align: right;">750</td>
-                            <td style="text-align: right;">685</td>
+                            <td style="text-align: right;  padding-right: 40px;">750</td>
+                            <td style="text-align: right;  padding-right: 40px;">685</td>
                         </tr>
                         <tr>
                             <td style="text-align: center;">19.</td>
                             <td style="text-align: center;">2025</td>
-                            <td style="text-align: right;">300</td>
-                            <td style="text-align: right;">270</td>
+                            <td style="text-align: right;  padding-right: 40px;">300</td>
+                            <td style="text-align: right;  padding-right: 40px;">270</td>
                         </tr>
                         <tr>
                             <td colspan="2" style="text-align: center;">Total</td>
-                            <td style="text-align: right;">32,638</td>
-                            <td style="text-align: right;">24,511</td>
+                            <td style="text-align: right;  padding-right: 40px;">32,638</td>
+                            <td style="text-align: right;  padding-right: 40px;">24,511</td>
                         </tr>
                         </tbody>
                     </table>
@@ -370,13 +370,13 @@ Bangladesh </br> Anowar Tours &amp; Travels Limited, Dhaka, Bangladesh</td>
                             </tr>
                                                     <tr style="font-size: 12px; font-weight: 600">
                                 <td style="padding: 20px">Medical Centre</td>
-                                <td style="padding: 10px">Gulshan Clinic Ltd, Shahjadpur, Gulshan, Dhaka-1212,</br>
-Bangladesh Labaid Medical Centre Gulshan, Gulshan-2, Dhaka-1212, Bangladesh</td>
+                                <td style="padding: 10px">Gulshan Clinic Ltd, Shahjadpur, Gulshan, Dhaka-1212,
+Bangladesh </br></br> Labaid Medical Centre Gulshan, Gulshan-2, Dhaka-1212, Bangladesh</td>
                             </tr>
                                                     <tr style="font-size: 12px; font-weight: 600">
                                 <td style="padding: 20px">Bankers</td>
-                                <td style="padding: 10px">The City Bank PLC,</br>
-United Commercial Bank PLC,
+                                <td style="padding: 10px">The City Bank PLC,</br></br>
+United Commercial Bank PLC,</br>
 </br>BRAC Bank PLC</td>
                             </tr>
                                                     <tr style="font-size: 12px; font-weight: 600">
@@ -385,7 +385,7 @@ United Commercial Bank PLC,
                             </tr>
                                                     <tr style="font-size: 12px; font-weight: 600">
                                 <td style="padding: 20px">Membership</td>
-                                <td style="padding: 10px">Bangladesh Association of International Recruiting Agents (BAIRA),</br> Dhaka
+                                <td style="padding: 10px">Bangladesh Association of International Recruiting Agents (BAIRA),<br></br> Dhaka
 Chamber of Commerce and Industries (DCCI)</td>
                             </tr>
                                                 </tbody>
