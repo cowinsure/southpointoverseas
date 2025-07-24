@@ -366,7 +366,7 @@ Hotline: +8801903999666,
                                                     <tr style="font-size: 12px; font-weight: 600">
                                 <td style="padding: 20px">Ticketing &amp; Travelling Agency</td>
                                 <td style="padding: 10px">Victory Travels Ltd. Dhaka,
-Bangladesh </br> Anowar Tours &amp; Travels Limited, Dhaka, Bangladesh</td>
+Bangladesh </br></br> Anowar Tours &amp; Travels Limited, Dhaka, Bangladesh</td>
                             </tr>
                                                     <tr style="font-size: 12px; font-weight: 600">
                                 <td style="padding: 20px">Medical Centre</td>
