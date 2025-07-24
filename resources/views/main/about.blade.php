@@ -484,9 +484,9 @@ Chamber of Commerce and Industries (DCCI)</td>
                         </li>
                         @endif
 
-                        <li><i class="fas fa-map-marker-alt"></i><a href="#"
-                                                                    class="xsmall-title-oswald text-height-17"
-                                                                    style="color: black; font-size: 10px">{{ $footer->address }}</a>
+                           <li style="display: flex; align-items: center; margin-bottom: 6px; justify-content: flex-start;">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <a href="#" class="xsmall-title-oswald text-height-17" style="white-space: normal; word-break: break-word; color: inherit;">{{ $footer->address }}</a>
                         </li>
 
                     </ul>
